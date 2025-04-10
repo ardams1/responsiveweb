@@ -73,7 +73,7 @@ header{
     gap: 2rem;
 }
 
-section{
+.section{
     padding: 0 19%;
 }
 
@@ -92,7 +92,7 @@ section{
     line-height: 1;
     color: white;
     margin: 0 0 45px;
-    margin-top: 7% !important;
+    margin-top: 100% !important;
 }
 
 .hero-text h4{
@@ -111,9 +111,10 @@ section{
 }
 
 .hero-img img{
-    width: 310px !important;
+    width: 250px !important;
     height: auto;
     margin-left: 90px;
+    margin-bottom: -40px;
     filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, 0.5));
     transition: filter 0.3s ease;
 }
@@ -212,6 +213,7 @@ section{
         padding: 0 12%;
         transition: .2s;
     }
+
 }
 
 @media (max-width: 1340px){
