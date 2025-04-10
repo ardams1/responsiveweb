@@ -79,7 +79,7 @@ section{
     font-size: 90px;
     line-height: 1;
     color: white;
-    margin: 0 0 45px;
+    margin-top: 10% !important;
 }
 
 .hero-text h4{
@@ -92,7 +92,7 @@ section{
     color: white;
     font-size: 15px;
     line-height: 1.9;
-    margin-bottom: 40px;
+    margin-top: 90px !important;
 }
 
 .hero-img img{

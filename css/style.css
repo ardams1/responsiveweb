@@ -78,6 +78,7 @@ section{
 }
 
 .hero-text h5{
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: white;
@@ -87,10 +88,11 @@ section{
 .hero-text h1{
     font-family: "Montserrat", sans-serif !important;
     font-size: 900;
-    letter-spacing: -6px;
+    letter-spacing: -7px;
     line-height: 1;
     color: white;
     margin: 0 0 45px;
+    margin-top: 7% !important;
 }
 
 .hero-text h4{
@@ -101,7 +103,7 @@ section{
     margin-bottom: 10px;
 }
 .hero-text p{
-    font-family: "Sedgwick Ave", cursive;
+    font-family: "Montserrat", sans-serif;
     color: white;
     font-size: 15px;
     line-height: 1.9;
